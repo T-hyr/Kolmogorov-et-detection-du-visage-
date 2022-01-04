@@ -8,9 +8,7 @@ Classification de visage à l'aide basé sur la compléxité de Kolmogorov
 
 La théorie de l'information algorithmique repose sur un principe simple défini par Kolmogorov : la complexité de Kolmogorov d'un objet - nombre, image numérique chaîne de chactères - est la taille du plus petit algorythme (dans un certain language de programmation fixé) qui engendre cet objet.
 
-Considérons une machine informatique M pouvant exécuter des programmes. On dit que cette machine est universelle lorsqu’elle peut émuler n'importe quelle autre machine informatique. La machine de Turing universelle en est un exemple.
-
-On note PM l'ensemble des programmes écrits pour la machine M. Pour un programme p ∈ PM, on note l(p) sa longueur en nombre d’instructions pour la machine M et s(p) sa sortie. La complexité de Kolmogorov KM(x), ou complexité algorithmique, d’une suite x finie de caractères pour une machine M est déﬁnie par :
+La complexité de Kolmogorov KM(x), ou complexité algorithmique, d’une suite x finie de caractères pour une machine M est déﬁnie par :
 
 $$
 K_M(x) = \min_{p \in P_M} \{ l(p) , s(p) = x \}
