@@ -57,3 +57,9 @@ $$
 La NCD est en fait une famille de distances paramétrées par le compresseur C. Plus C est bon, plus la NCD se rapproche de la NID, et meilleurs sont les résultats. 
 
 $C(x,y)$ est içi la taille de l'image concaténé.
+  
+  
+
+Merci à l'article de Jordan Van Eetveldt sur https://towardsdatascience.com/face-recognition-through-kolmogorov-complexity-16ac5542235b pour l'idée du projet.
+
+
