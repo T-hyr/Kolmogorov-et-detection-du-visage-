@@ -1,5 +1,5 @@
 # Kolmogorov-et-detection-du-visage-
-Classification de visage à l'aide basé sur la compléxité de Kolmogorov
+Classification de visage basé sur la compléxité de Kolmogorov
 
 
 # <span style="color:red">  Usage de la complexité de Kolmogorov pour détecter les visages similaires
